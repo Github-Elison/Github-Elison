@@ -29,13 +29,14 @@
 <img height=30cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="60" />
 </div>
 
+<br>
+
 <div style="text-align: center; color: #005aff; font-size: 1.5em; font-weight: bold;">
   <p>~~Contato~~</p>
 </div>
 
-<br>
+<br><div style="display: flex; justify-content: center;">
 <a href="https://www.linkedin.com/in/elison-martins-981bb1216/">
-<div style="display: flex; justify-content: center;">
 <img height=30cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</div></a>
+</a></div>
 
