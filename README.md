@@ -39,5 +39,7 @@
 <div style="display: flex; justify-content: center;">
 <a href="https://www.linkedin.com/in/elison-martins-981bb1216/">
 <img height=30cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"/>
+<a href="https://www.behance.net/elisonsocialmedia">
+<img height=30cm src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" align="center" heigth="50" width="60"/>
 </a></div>
 
